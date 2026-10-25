@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- اسم التطبيق الظاهر للمستخدم: Wolf Custom VPN -->
+    <string name="app_name">Wolf Custom VPN</string>
+    <string name="app_tagline">Fast • Secure • Private</string>
+    <string name="tile_label">Wolf VPN</string>
+    <string name="status_connected">متصل بنجاح - Wolf Active</string>
+    <string name="status_disconnected">غير متصل - اضغط للبدء</string>
+
+    <!-- روابط Author / GitHub / Report a bug الموجهة للمستخدم -->
+    <string name="author_url">https://t.me/Mistar_wolfnet</string>
+    <string name="github_url">https://t.me/Mistar_wolfnet</string>
+    <string name="bug_report_url">https://t.me/Mistar_wolfnet</string>
+    <string name="support_telegram_url">https://t.me/Mistar_wolfnet</string>
+
+    <!-- نصوص التحقق والحماية من التعديل -->
+    <string name="required_app_package">core.vpn3jx.xtreme</string>
+    <string name="required_app_missing_toast">يجب تثبيت التطبيق المطلوب أولاً</string>
+    <string name="required_app_title">تطبيق core.vpn3jx.xtreme مطلوب</string>
+    <string name="required_app_desc">يتطلب تشغيل Wolf Custom VPN وجود تطبيق core.vpn3jx.xtreme على جهازك ليعمل بشكل سليم.</string>
+</resources>
